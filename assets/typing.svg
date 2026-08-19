@@ -1,23 +1,10 @@
 <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
 
-<rect
-width="800"
-height="120"
-rx="12"
-fill="#0D1117"
-stroke="#00F5D4"
-stroke-opacity="0.35"/>
+<rect width="800" height="120" rx="12" fill="#0D1117" stroke="#00F5D4" stroke-opacity="0.35"/>
 
-<circle cx="25" cy="25" r="6" fill="#FF5F56"/>
-<circle cx="45" cy="25" r="6" fill="#FFBD2E"/>
-<circle cx="65" cy="25" r="6" fill="#27C93F"/>
+<circle cx="25" cy="25" r="6" fill="#FF5F56"/> <circle cx="45" cy="25" r="6" fill="#FFBD2E"/> <circle cx="65" cy="25" r="6" fill="#27C93F"/>
 
-<text
-x="30"
-y="65"
-font-family="monospace"
-font-size="18"
-fill="#00FF88">
+<text x="30" y="65" font-family="monospace" font-size="18" fill="#00FF88">
 
 > focus:_
 
@@ -25,109 +12,50 @@ fill="#00FF88">
 
 <!-- Python -->
 
-<text
-x="140"
-y="65"
-font-family="monospace"
-font-size="18"
-fill="#00F5D4"
-opacity="0">
+<text x="140" y="65" font-family="monospace" font-size="18" fill="#00F5D4" opacity="0">
 
-Python <animate
- attributeName="opacity"
- values="0;1;1;0"
- keyTimes="0;0.1;0.4;0.5"
- dur="10s"
- repeatCount="indefinite"/>
+Python
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.4;0.5" dur="10s" repeatCount="indefinite"/>
 
 </text>
 
 <!-- Chatbots -->
 
-<text
-x="140"
-y="65"
-font-family="monospace"
-font-size="18"
-fill="#00F5D4"
-opacity="0">
+<text x="140" y="65" font-family="monospace" font-size="18" fill="#00F5D4" opacity="0">
 
-Chatbots & AI <animate
- attributeName="opacity"
- values="0;1;1;0"
- keyTimes="0;0.1;0.4;0.5"
- begin="2s"
- dur="10s"
- repeatCount="indefinite"/>
+Chatbots & AI
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.4;0.5" begin="2s" dur="10s" repeatCount="indefinite"/>
 
 </text>
 
 <!-- Cybersecurity -->
 
-<text
-x="140"
-y="65"
-font-family="monospace"
-font-size="18"
-fill="#00F5D4"
-opacity="0">
+<text x="140" y="65" font-family="monospace" font-size="18" fill="#00F5D4" opacity="0">
 
-Cybersecurity <animate
- attributeName="opacity"
- values="0;1;1;0"
- keyTimes="0;0.1;0.4;0.5"
- begin="4s"
- dur="10s"
- repeatCount="indefinite"/>
+Cybersecurity
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.4;0.5" begin="4s" dur="10s" repeatCount="indefinite"/>
 
 </text>
 
 <!-- Emerging Tech -->
 
-<text
-x="140"
-y="65"
-font-family="monospace"
-font-size="18"
-fill="#00F5D4"
-opacity="0">
+<text x="140" y="65" font-family="monospace" font-size="18" fill="#00F5D4" opacity="0">
 
-Emerging Technologies <animate
- attributeName="opacity"
- values="0;1;1;0"
- keyTimes="0;0.1;0.4;0.5"
- begin="6s"
- dur="10s"
- repeatCount="indefinite"/>
+Emerging Technologies
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.4;0.5" begin="6s" dur="10s" repeatCount="indefinite"/>
 
 </text>
 
 <!-- Design Thinking -->
 
-<text
-x="140"
-y="65"
-font-family="monospace"
-font-size="18"
-fill="#00F5D4"
-opacity="0">
+<text x="140" y="65" font-family="monospace" font-size="18" fill="#00F5D4" opacity="0">
 
-Design Thinking <animate
- attributeName="opacity"
- values="0;1;1;0"
- keyTimes="0;0.1;0.4;0.5"
- begin="8s"
- dur="10s"
- repeatCount="indefinite"/>
+Design Thinking
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.4;0.5" begin="8s" dur="10s" repeatCount="indefinite"/>
 
 </text>
 
-<text
-x="30"
-y="95"
-font-family="monospace"
-font-size="13"
-fill="#667781">
+<text x="30" y="95" font-family="monospace" font-size="13" fill="#667781">
 
 research • prototype • experiment • build
 
