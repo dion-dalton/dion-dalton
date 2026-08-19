@@ -13,7 +13,7 @@
 </div>
 <div align="center">
   
-# whoami
+# sobre mim
   
 </div>
 
