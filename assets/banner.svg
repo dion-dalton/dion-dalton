@@ -1,1 +1,165 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050A0F"/>
+    <stop offset="50%" stop-color="#071B24"/>
+    <stop offset="100%" stop-color="#00130F"/>
+  </linearGradient>
+
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00F5D4"/>
+    <stop offset="100%" stop-color="#00FF88"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40"
+          fill="none"
+          stroke="#00F5D4"
+          stroke-opacity="0.08"/>
+  </pattern>
+
+</defs>
+
+<!-- Background -->
+
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+
+<!-- Grid -->
+
+<rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+
+<!-- Animated scan line -->
+
+<rect x="0" y="0" width="1200" height="2" fill="#00F5D4" opacity="0.5">
+  <animate
+    attributeName="y"
+    from="0"
+    to="300"
+    dur="4s"
+    repeatCount="indefinite"/>
+</rect>
+
+<!-- Decorative circuits -->
+
+<g stroke="url(#cyan)" stroke-width="2" fill="none" opacity="0.7">
+
+  <path d="M40 70 H180 V110 H260"/>
+  <circle cx="40" cy="70" r="4" fill="#00F5D4"/>
+  <circle cx="260" cy="110" r="4" fill="#00FF88"/>
+
+  <path d="M1160 70 H1030 V120 H950"/>
+  <circle cx="1160" cy="70" r="4" fill="#00F5D4"/>
+  <circle cx="950" cy="120" r="4" fill="#00FF88"/>
+
+  <path d="M60 235 H190 V205 H300"/>
+  <circle cx="60" cy="235" r="4" fill="#00FF88"/>
+
+  <path d="M1140 235 H1020 V200 H900"/>
+  <circle cx="1140" cy="235" r="4" fill="#00F5D4"/>
+
+</g>
+
+<!-- Floating particles -->
+
+<g fill="#00F5D4">
+
+  <circle cx="180" cy="45" r="2">
+    <animate attributeName="cy" values="45;65;45" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1040" cy="55" r="2">
+    <animate attributeName="cy" values="55;35;55" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="330" cy="250" r="2">
+    <animate attributeName="cx" values="330;350;330" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="880" cy="245" r="2">
+    <animate attributeName="cx" values="880;860;880" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+</g>
+
+<!-- Main glow -->
+
+<text
+x="600"
+y="120"
+text-anchor="middle"
+font-family="monospace"
+font-size="52"
+font-weight="bold"
+fill="url(#cyan)"
+filter="url(#glow)">
+
+DION DALTON
+
+<animate
+ attributeName="opacity"
+ values="0.75;1;0.75"
+ dur="3s"
+ repeatCount="indefinite"/>
+
+</text>
+
+<!-- Subtitle -->
+
+<text
+x="600"
+y="160"
+text-anchor="middle"
+font-family="monospace"
+font-size="20"
+fill="#FFFFFF"
+opacity="0.9">
+
+TECH PROTOTYPER • EMERGING TECHNOLOGIES
+
+</text>
+
+<!-- Terminal -->
+
+<text
+x="600"
+y="205"
+text-anchor="middle"
+font-family="monospace"
+font-size="16"
+fill="#00FF88">
+
+> SYSTEM ONLINE_
+
+<animate
+ attributeName="opacity"
+ values="1;0;1"
+ dur="1.2s"
+ repeatCount="indefinite"/>
+
+</text>
+
+<!-- Bottom status -->
+
+<rect x="420" y="230" width="360" height="3" rx="2" fill="#12252B"/>
+
+<rect x="420" y="230" width="360" height="3" rx="2" fill="#00F5D4">
+
+<animate
+ attributeName="width"
+ values="20;360;20"
+ dur="5s"
+ repeatCount="indefinite"/>
+
+</rect>
+
+</svg>
