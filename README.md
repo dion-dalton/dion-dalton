@@ -47,23 +47,16 @@ Minha abordagem combina desenvolvimento técnico com Design Thinking, buscando t
 
 # Áreas e Interesses
 Python	Automação, prototipação e desenvolvimento
-
 Chatbots e IA	Sistemas conversacionais e experimentação
-
 Cybersecurity	Segurança de sistemas e análise
-
 Tecnologias Emergentes	Exploração e prototipação
-
 Hardware	Microcomputadores, sistemas físicos e cyberdecks
-
 Design Thinking	Ideação, prototipação e resolução de problemas
-
 Realidade Mista	Exploração de novas interfaces
-
 Pesquisa e Inovação	Experimentação e desenvolvimento
-
-
 </div>
+
+
 <div align="center">
   
 # tech stack
@@ -82,9 +75,9 @@ AI & Systems
 <p> <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark"> </p>
 
 ```
-current mission[██████████████████████████] 
+current mission [██████████████████████████] 
 Researching    [█████████████████████░░░░░]
-Learning       [███████████████████████░░█]
+Learning       [███████████████████████░░░]
 Prototyping    [███████████████████░░░░░░░]
 Experimenting  [███████████████░░░░░░░░░░░]
 Building       [█████████████████░░░░░░░░░]
@@ -95,37 +88,42 @@ Atualmente estou ampliando minha formação em Ciência da Computação e aprofu
 
 Meu objetivo é continuar explorando tecnologias emergentes e construir projetos que conectem software, inteligência artificial, segurança, hardware e experiência humana.
 <div align="center">
-# methodology
-Design Thinking → Prototype → Build → Test
+  
+# metodologia
+
+Design Thinking → Prototipar → Costruir → Testar
   
 ```
-             ┌───────────────┐
-             │    EMPATHIZE  │
-             └───────┬───────┘
-             ↓
-             ┌───────────────┐
-             │     DEFINE    │
-             └───────┬───────┘
-             ↓
-             ┌───────────────┐
-             │     IDEATE    │
-             └───────┬───────┘
-             ↓
-             ┌───────────────┐
-             │   PROTOTYPE   │
-             └───────┬───────┘
-             ↓
-             ┌───────────────┐
-             │      TEST     │
-             └───────┬───────┘
-             │
-                                └──────────→ ITERATE
+┌───────────────┐
+│   Empatizar   │
+└───────┬───────┘
+↓
+┌───────────────┐
+│    Definir    │
+└───────┬───────┘
+↓
+┌───────────────┐
+│   Idealizar   │
+└───────┬───────┘
+↓
+┌───────────────┐
+│   Prototipar  │
+└───────┬───────┘
+↓
+┌───────────────┐
+│     Testar    │
+└───────┬───────┘
+│
+                  └──────────→ Iterar
   ```
 
 </div>
 Gosto de trabalhar de forma experimental: entender → imaginar → construir → testar → melhorar.
 
-> project_lab
+
+
+# project_lab
+
 Chatbot Lab
 
 Projetos relacionados a chatbots, automação e sistemas conversacionais.
@@ -148,19 +146,21 @@ Research Lab
 
 Experimentos envolvendo novas tecnologias, prototipação e pesquisa independente.
 
-Focus: Emerging Technologies • Innovation • Human-Computer Interaction
+Foco: Tecnologias Emergentes • Inovação • Interação Humano-Computador
 
-> github_activity
+
+# github_activity
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&title_color=00F5D4&icon_color=00FF88&text_color=FFFFFF&bg_color=0D1117" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=dion-dalton&show_icons=true&theme=github_dark&hide_border=true&title_color=00F5D4&icon_color=00FF88&text_color=FFFFFF&bg_color=0D1117" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&title_color=00F5D4&text_color=FFFFFF&bg_color=0D1117" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dion-dalton&layout=compact&theme=github_dark&hide_border=true&title_color=00F5D4&text_color=FFFFFF&bg_color=0D1117" height="170">
 
 </div>
 
-> contribution_matrix
+# contribution_matrix
 
 <div align="center">
 
@@ -168,7 +168,9 @@ Focus: Emerging Technologies • Innovation • Human-Computer Interaction
 
 </div>
 
-> education
+
+# education
+
 
 Ciência da Computação
 Universidade Cruzeiro do Sul
@@ -178,11 +180,13 @@ Soluções Tecnológicas Emergentes
 
 Python • Chatbots • Design Thinking
 
-> philosophy
+
+# philosophy
+
 
 <div align="center">
 
-"Learn. Experiment. Prototype. Build."
+"Aprenda. Experimente. Prototipe. Construa."
 
 <br>
 
@@ -192,7 +196,9 @@ e tornar ideias concretas.
 
 </div>
 
-> connect
+
+# connect
+
 
 <div align="center">
 
@@ -202,12 +208,13 @@ e tornar ideias concretas.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00F5D4&style=flat-square&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=dion-dalton&color=00F5D4&style=flat-square&label=PROFILE+VIEWS">
 
 </div>
 
 <div align="center">
-
+  
+```
 ╔══════════════════════════════════════════════════╗
 ║                                                  ║
 ║              SYSTEM STATUS: ONLINE               ║
@@ -215,6 +222,7 @@ e tornar ideias concretas.
 ║       PYTHON • AI • SECURITY • PROTOTYPING       ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
+```
 
 © Dion Dalton
 
