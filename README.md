@@ -11,15 +11,20 @@
 <p> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"> <img src="https://img.shields.io/badge/Chatbots-0D1117?style=for-the-badge&logo=robot&logoColor=00F5D4"> <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF88"> <img src="https://img.shields.io/badge/Design_Thinking-0D1117?style=for-the-badge&logoColor=FFCC00"> <img src="https://img.shields.io/badge/Emerging_Tech-0D1117?style=for-the-badge&logoColor=00D9FF"> </p>
 
 </div>
-
-> whoami
+<div align="center">
+  
+# whoami
+  
+</div>
 
 Sou Dion Dalton, estudante de Ciência da Computação, pesquisador independente e Tech Prototyper.
 
 Tenho interesse na interseção entre software, inteligência artificial, cibersegurança, hardware, prototipação e tecnologias emergentes.
 
 Minha abordagem combina desenvolvimento técnico com Design Thinking, buscando transformar problemas e ideias em protótipos, experimentos e soluções tecnológicas.
+<div align="center">
 
+```
 ┌──────────────────────────────────────────────────────┐
 │                   DION_DALTON.EXE                    │
 ├──────────────────────────────────────────────────────┤
@@ -31,27 +36,39 @@ Minha abordagem combina desenvolvimento técnico com Design Thinking, buscando t
 │  SECURITY    → Cybersecurity                         │
 │  METHOD      → Design Thinking                       │
 │  MINDSET     → Research • Experiment • Build         │
-│                                                      │
+├──────────────────────────────────────────────────────┤
 │  STATUS      → SYSTEM ONLINE                         │
-│                                                      │
 └──────────────────────────────────────────────────────┘
-> areas_of_interest
+```
+</div>
+
 
 <div align="center">
 
-Áreas	Interesse
+# Áreas e Interesses
 Python	Automação, prototipação e desenvolvimento
+
 Chatbots e IA	Sistemas conversacionais e experimentação
+
 Cybersecurity	Segurança de sistemas e análise
+
 Tecnologias Emergentes	Exploração e prototipação
+
 Hardware	Microcomputadores, sistemas físicos e cyberdecks
+
 Design Thinking	Ideação, prototipação e resolução de problemas
+
 Realidade Mista	Exploração de novas interfaces
+
 Pesquisa e Inovação	Experimentação e desenvolvimento
 
-</div>
 
-> tech_stack
+</div>
+<div align="center">
+  
+# tech stack
+
+
 Programming
 
 <p> <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark"> </p>
@@ -60,47 +77,52 @@ AI & Systems
 
 <p> <img src="https://img.shields.io/badge/Chatbots-0D1117?style=for-the-badge&logoColor=00F5D4"> <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logoColor=8A2BE2"> <img src="https://img.shields.io/badge/Conversational_AI-0D1117?style=for-the-badge&logoColor=00D9FF"> </p>
 
-Cybersecurity & Research
+# Cybersecurity & Research
 
 <p> <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark"> </p>
 
-> current_mission
-[████████████████████████████████████████] 100%
+```
+current mission[██████████████████████████] 
+Researching    [█████████████████████░░░░░]
+Learning       [███████████████████████░░█]
+Prototyping    [███████████████████░░░░░░░]
+Experimenting  [███████████████░░░░░░░░░░░]
+Building       [█████████████████░░░░░░░░░]
+```
 
-Researching        ████████████████████
-Learning           ████████████████████
-Prototyping        ███████████████████░
-Experimenting      ███████████████░░░░░
-Building           █████████████████░░░
 
 Atualmente estou ampliando minha formação em Ciência da Computação e aprofundando conhecimentos em diferentes áreas do desenvolvimento tecnológico.
 
 Meu objetivo é continuar explorando tecnologias emergentes e construir projetos que conectem software, inteligência artificial, segurança, hardware e experiência humana.
-
-> methodology
+<div align="center">
+# methodology
 Design Thinking → Prototype → Build → Test
+  
+```
              ┌───────────────┐
              │    EMPATHIZE  │
              └───────┬───────┘
-                     ↓
+             ↓
              ┌───────────────┐
              │     DEFINE    │
              └───────┬───────┘
-                     ↓
+             ↓
              ┌───────────────┐
              │     IDEATE    │
              └───────┬───────┘
-                     ↓
+             ↓
              ┌───────────────┐
              │   PROTOTYPE   │
              └───────┬───────┘
-                     ↓
+             ↓
              ┌───────────────┐
              │      TEST     │
              └───────┬───────┘
-                     │
-                     └──────────→ ITERATE
+             │
+                                └──────────→ ITERATE
+  ```
 
+</div>
 Gosto de trabalhar de forma experimental: entender → imaginar → construir → testar → melhorar.
 
 > project_lab
