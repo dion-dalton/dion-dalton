@@ -2,11 +2,6 @@
 
 <a href="https://github.com/dion-dalton"> <img src="./assets/banner.svg" width="100%" alt="Dion Dalton — Tech Prototyper"> </a>
 
-<br>
-
-<img src="./assets/typing.svg" width="700" alt="Tech Prototyper">
-
-<br><br>
 
 <p> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"> <img src="https://img.shields.io/badge/Chatbots-0D1117?style=for-the-badge&logo=robot&logoColor=00F5D4"> <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF88"> <img src="https://img.shields.io/badge/Design_Thinking-0D1117?style=for-the-badge&logoColor=FFCC00"> <img src="https://img.shields.io/badge/Emerging_Tech-0D1117?style=for-the-badge&logoColor=00D9FF"> </p>
 
