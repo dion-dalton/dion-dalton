@@ -174,7 +174,7 @@ Foco: Tecnologias Emergentes • Inovação • Interação Humano-Computador
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F5D4&line=00FF88&point=FFFFFF&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dion-dalton&bg_color=0D1117&color=00F5D4&line=00FF88&point=FFFFFF&area=true&hide_border=true">
 
 </div>
 
@@ -212,7 +212,7 @@ e tornar ideias concretas.
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"> </a>
+<a href="https://github.com/dion-dalton"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"> </a>
 
 <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"> </a>
 
