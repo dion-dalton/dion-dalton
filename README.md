@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO"> <img src="./assets/banner.svg" width="100%" alt="Dion Dalton — Tech Prototyper"> </a>
+<a href="https://github.com/dion-dalton"> <img src="./assets/banner.svg" width="100%" alt="Dion Dalton — Tech Prototyper"> </a>
 
 <br>
 
