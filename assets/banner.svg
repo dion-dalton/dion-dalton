@@ -124,7 +124,7 @@ font-size="20"
 fill="#FFFFFF"
 opacity="0.9">
 
-TECH PROTOTYPER • EMERGING TECHNOLOGIES
+prototipador tecnológico • TECNOLOGIAS EMERGENTES
 
 </text>
 
@@ -138,7 +138,7 @@ font-family="monospace"
 font-size="16"
 fill="#00FF88">
 
-> SYSTEM ONLINE_
+> SISTEMA ONLINE_
 
 <animate
  attributeName="opacity"
