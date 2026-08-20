@@ -46,14 +46,22 @@ Minha abordagem combina desenvolvimento técnico com Design Thinking, buscando t
 <div align="center">
 
 # Áreas e Interesses
-Python	Automação, prototipação e desenvolvimento
-Chatbots e IA	Sistemas conversacionais e experimentação
+Python,	Automação, prototipação e desenvolvimento
+
+Chatbots, IA,	Sistemas conversacionais e experimentação
+
 Cybersecurity	Segurança de sistemas e análise
-Tecnologias Emergentes	Exploração e prototipação
+
+Tecnologias Emergentes,	Exploração e prototipação
+
 Hardware	Microcomputadores, sistemas físicos e cyberdecks
+
 Design Thinking	Ideação, prototipação e resolução de problemas
-Realidade Mista	Exploração de novas interfaces
-Pesquisa e Inovação	Experimentação e desenvolvimento
+
+Realidade Mista,	Exploração de novas interfaces
+
+Pesquisa e Inovação, Experimentação e desenvolvimento
+
 </div>
 
 
@@ -62,11 +70,11 @@ Pesquisa e Inovação	Experimentação e desenvolvimento
 # tech stack
 
 
-Programming
+Programação
 
 <p> <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark"> </p>
 
-AI & Systems
+AI & Sistemas
 
 <p> <img src="https://img.shields.io/badge/Chatbots-0D1117?style=for-the-badge&logoColor=00F5D4"> <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logoColor=8A2BE2"> <img src="https://img.shields.io/badge/Conversational_AI-0D1117?style=for-the-badge&logoColor=00D9FF"> </p>
 
