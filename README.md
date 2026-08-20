@@ -200,22 +200,9 @@ e tornar ideias concretas.
 <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"> </a>
 
 <a href="https://instagram.com">@dion.dalton.18</a>
-
 <br><br>
 </div>
-
 <div align="center">
-  
-```
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║              SYSTEM STATUS: ONLINE               ║
-║                                                  ║
-║       PYTHON • AI • SECURITY • PROTOTYPING       ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
 © Dion Dalton
 
 </div>
