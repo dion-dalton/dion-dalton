@@ -24,15 +24,15 @@ Minha abordagem combina desenvolvimento técnico com Design Thinking, buscando t
 │                   DION_DALTON.EXE                    │
 ├──────────────────────────────────────────────────────┤
 │                                                      │
-│  ROLE        → Tech Prototyper                       │
-│  FOCUS       → Emerging Technologies                 │
-│  LANGUAGE    → Python                                │
-│  AI          → Chatbots / Conversational Systems     │
-│  SECURITY    → Cybersecurity                         │
-│  METHOD      → Design Thinking                       │
-│  MINDSET     → Research • Experiment • Build         │
+│  Rota        → Tech Prototyper                       │
+│  Foco        → Emerging Technologies                 │
+│  Linguagem   → Python                                │
+│  AI          → Chatbots / Sistemas Conversacionais   │
+│  Segurança   → Cybersegurança / Nmap                 │
+│  Metodo      → Design Thinking                       │
+│  MINDSET     → Pesquisar • Experimentar • Construir  │
 ├──────────────────────────────────────────────────────┤
-│  STATUS      → SYSTEM ONLINE                         │
+│  STATUS      → SISTEMA ONLINE                        │
 └──────────────────────────────────────────────────────┘
 ```
 </div>
