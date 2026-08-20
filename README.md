@@ -159,7 +159,7 @@ Experimentos envolvendo novas tecnologias, prototipação e pesquisa independent
 Foco: Tecnologias Emergentes • Inovação • Interação Humano-Computador
 
 
-# github_activity
+# Atividade no Github
 
 
 <div align="center">
@@ -170,7 +170,7 @@ Foco: Tecnologias Emergentes • Inovação • Interação Humano-Computador
 
 </div>
 
-# contribution_matrix
+# Contribuição de matriz
 
 <div align="center">
 
@@ -179,7 +179,7 @@ Foco: Tecnologias Emergentes • Inovação • Interação Humano-Computador
 </div>
 
 
-# education
+# Educação
 
 
 Ciência da Computação
@@ -191,7 +191,7 @@ Soluções Tecnológicas Emergentes
 Python • Chatbots • Design Thinking
 
 
-# philosophy
+# Filosofia
 
 
 <div align="center">
@@ -207,7 +207,7 @@ e tornar ideias concretas.
 </div>
 
 
-# connect
+# Conexão
 
 
 <div align="center">
@@ -219,9 +219,6 @@ e tornar ideias concretas.
 <a href="https://instagram.com">@dion.dalton.18</a>
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=dion-dalton&color=00F5D4&style=flat-square&label=PROFILE+VIEWS">
-
 </div>
 
 <div align="center">
