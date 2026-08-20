@@ -216,6 +216,8 @@ e tornar ideias concretas.
 
 <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"> </a>
 
+<a href="https://instagram.com">@dion.dalton.18</a>
+
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=dion-dalton&color=00F5D4&style=flat-square&label=PROFILE+VIEWS">
