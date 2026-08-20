@@ -201,7 +201,7 @@ e tornar ideias concretas.
 
 <a href="https://instagram.com/dion.dalton.18"> <img scr="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
 
-<a href="https://discord.com/diondf"> <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
+<a href="https://discord.com/channels/@me/791133487805497354"> <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
 
 
 
