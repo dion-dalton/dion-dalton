@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   
-# sobre mim
+# Sobre mim
   
 </div>
 
