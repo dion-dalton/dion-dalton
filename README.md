@@ -62,7 +62,7 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
 
 <div align="center">
   
-# tech stack
+# Tech stack
 
 
 Programação
@@ -92,7 +92,7 @@ Atualmente estou ampliando minha formação em Ciência da Computação e aprofu
 Meu objetivo é continuar explorando tecnologias emergentes e construir projetos que conectem software, inteligência artificial, segurança, hardware e experiência humana.
 <div align="center">
   
-# metodologia
+# Metodologia
 
 Design Thinking → Prototipar → Costruir → Testar
 
@@ -127,7 +127,7 @@ Gosto de trabalhar de forma experimental: entender → imaginar → construir �
 
 
 
-# project lab
+# Project lab
 
 Chatbot Lab
 
@@ -197,9 +197,15 @@ e tornar ideias concretas.
 
 <a href="https://github.com/dion-dalton"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"> </a>
 
-<a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"> </a>
+<a href="https://www.linkedin.com/dion dalton"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"> </a>
 
-<a href="https://instagram.com">@dion.dalton.18</a>
+<a href="https://instagram.com/dion.dalton.18"> <img scr="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
+
+<a href="https://discord.com/diondf"> <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
+
+
+
+
 <br><br>
 </div>
 <div align="center">
