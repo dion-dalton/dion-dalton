@@ -153,18 +153,6 @@ Experimentos envolvendo novas tecnologias, prototipação e pesquisa independent
 
 Foco: Tecnologias Emergentes • Inovação • Interação Humano-Computador
 
-
-# Atividade no Github
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dion-dalton&show_icons=true&theme=github_dark&hide_border=true&title_color=00F5D4&icon_color=00FF88&text_color=FFFFFF&bg_color=0D1117" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dion-dalton&layout=compact&theme=github_dark&hide_border=true&title_color=00F5D4&text_color=FFFFFF&bg_color=0D1117" height="170">
-
-</div>
-
 # Contribuição de matriz
 
 <div align="center">
