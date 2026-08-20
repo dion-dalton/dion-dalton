@@ -100,7 +100,8 @@ Meu objetivo é continuar explorando tecnologias emergentes e construir projetos
 # metodologia
 
 Design Thinking → Prototipar → Costruir → Testar
-  
+
+
 ```
 ┌───────────────┐
 │   Empatizar   │
@@ -123,14 +124,15 @@ Design Thinking → Prototipar → Costruir → Testar
 └───────┬───────┘
 │
                   └──────────→ Iterar
-  ```
+```
+
 
 </div>
 Gosto de trabalhar de forma experimental: entender → imaginar → construir → testar → melhorar.
 
 
 
-# project_lab
+# project lab
 
 Chatbot Lab
 
