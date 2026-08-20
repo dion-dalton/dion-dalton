@@ -67,7 +67,7 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
 
 Programação
 
-<p> <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark"> </p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,nmap,json,vscode,github">
 
 AI & Sistemas
 
