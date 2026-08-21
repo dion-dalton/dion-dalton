@@ -67,7 +67,16 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
 
 Programação
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,nmap,json,vscode,github">
+
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="50" alt="JSON" />
+  <img src="https://nmap.org/images/nmap-logo-64px.svg" height="50" alt="Nmap" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+
 
 AI & Sistemas
 
