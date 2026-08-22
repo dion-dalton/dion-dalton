@@ -64,7 +64,7 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
   
 # Tech stack
 
-  <img src="https://skillicons.dev/icons?i=" height="50" alt="" />
+  <img src="https://www.dev-cpp.com/images/embarcaderodevcpp256.png" height="50" alt="devc++" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="50" alt="raspberrypi" />
   <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="pgadmim4" />
