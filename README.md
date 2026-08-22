@@ -64,10 +64,11 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
   
 # Tech stack
 
-
-Programação
-
-
+  <img src="https://skillicons.dev/icons?i=" height="50" alt="" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="50" alt="raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="pgadmim4" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="obsidian" />
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
