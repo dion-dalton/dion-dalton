@@ -77,7 +77,6 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
 
-
 AI & Sistemas
 
 <p> <img src="https://img.shields.io/badge/Chatbots-0D1117?style=for-the-badge&logoColor=00F5D4"> <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logoColor=8A2BE2"> <img src="https://img.shields.io/badge/Conversational_AI-0D1117?style=for-the-badge&logoColor=00D9FF"> </p>
