@@ -207,7 +207,7 @@ e tornar ideias concretas.
 
 <a href="https://www.linkedin.com/in/dion-dalton-b5155a230/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"> </a>
 
-<a href="https://discord.com/channels/@791133487805497354"> <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"> </a>
+<a href="https://discord.gg/qmfnQHbt4k"> <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"> </a>
 
 <a href="https://www.instagram.com/dion.dalton.18/"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF"> </a>
 <br><br>
