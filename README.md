@@ -64,26 +64,22 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
   
 # Tech stack
 
-  <img src="https://www.dev-cpp.com/images/embarcaderodevcpp256.png" height="50" alt="devc++" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="50" alt="raspberrypi" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="pgadmim4" />
-  <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="obsidian" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img src="/assets/icon/json.png" height="50" alt="JSON">
-
-
-
-  
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  <p> <img src="https://www.dev-cpp.com/images/embarcaderodevcpp256.png" height="50" alt="devc++" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi" height="50" alt="raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="pgadmim4" />
+    <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="obsidian" />
+    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+    <img src="/assets/icon/json.png" height="50" alt="JSON">
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" /> </p>
 
 AI & Sistemas
 
-<p> <img src="https://img.shields.io/badge/Chatbots-0D1117?style=for-the-badge&logoColor=00F5D4"> <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logoColor=8A2BE2"> <img src="https://img.shields.io/badge/Conversational_AI-0D1117?style=for-the-badge&logoColor=00D9FF"> </p>
+<p> <img src="https://img.shields.io/badge/Chatbots-0D1117?style=for-the-badge&logoColor=00F5D4"> <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logoColor=8A2BE2"><img src="https://img.shields.io/badge/Conversational_AI-0D1117?style=for-the-badge&logoColor=00D9FF"> </p>
 
 # Cybersecurity & Research
 
