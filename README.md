@@ -73,7 +73,7 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img src="https://interoperable-europe.ec.europa.eu/sites/default/files/styles/wysiwyg_half_width/public/inline-images/json-logo.png?itok=B-9chNHT" height="50" alt="JSON" />
+  <img src="./icone/json.png" height="50" alt="JSON">
 
 
 
