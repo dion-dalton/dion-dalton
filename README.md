@@ -79,11 +79,14 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
 
 AI & Sistemas
 
-<p> <img src="https://img.shields.io/badge/Chatbots-0D1117?style=for-the-badge&logoColor=00F5D4"> <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logoColor=8A2BE2"><img src="https://img.shields.io/badge/Conversational_AI-0D1117?style=for-the-badge&logoColor=00D9FF"> </p>
+<p> <img src="https://img.shields.io/badge/Chatbots-0D1117?style=for-the-badge&logoColor=00F5D4"> 
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logoColor=8A2BE2">
+<img src="https://img.shields.io/badge/Conversational_AI-0D1117?style=for-the-badge&logoColor=00D9FF"> </p>
 
 # Cybersecurity & Research
 
-<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark">
+<img src="https://skillicons.dev/icons?i=bash" height=50 alt= "bash">
+<img src="https://skillicons.dev/icons?i=linux" height=50 alt="linux">
 <img src="https://nmap.org/images/nmap-logo-64px.svg" height="50" alt="Nmap" />
 
 
