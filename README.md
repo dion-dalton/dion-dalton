@@ -171,7 +171,7 @@ Foco: Tecnologias Emergentes • Inovação • Interação Humano-Computador
 <div align="center">
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dion-dalton)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dion-dalton&theme=react-dark)
 
 
 
