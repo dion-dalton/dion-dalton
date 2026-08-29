@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <a href="https://github.com/dion-dalton"> <img src="./assets/banner.svg" width="100%" alt="Dion Dalton — Tech Prototyper"> </a>
@@ -64,18 +66,17 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
   
 # Tech stack
 
-  <p> <img src="https://www.dev-cpp.com/images/embarcaderodevcpp256.png" height="50" alt="devc++" />
-    <img src="https://skillicons.dev/icons?i=raspberrypi" height="50" alt="raspberrypi" />
-    <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="pgadmim4" />
-    <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="obsidian" />
-    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <div class="tech" >
     <img src="/assets/icon/json.png" height="50" alt="JSON">
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" /> </p>
+    <img src="/assets/icon/html.svg" height="50" alt="">
+    <img src="/assets/icon/" height="50" alt="">
+    <img src="/assets/icon/" height="50" alt="">
+    <img src="/assets/icon/" height="50" alt="">
+    <img src="/assets/icon/" height="50" alt="">
+    <img src="/assets/icon/" height="50" alt="">
+    <img src="/assets/icon/" height="50" alt="">
+    <img src="/assets/icon/" height="50" alt="">
+  </div>
 
 AI & Sistemas
 
