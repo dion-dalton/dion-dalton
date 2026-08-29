@@ -67,15 +67,18 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
 # Tech stack
 
   <div class="tech" >
-    <img src="/assets/icon/json.png" height="50" alt="JSON">
-    <img src="/assets/icon/html.svg" height="50" alt="">
-    <img src="/assets/icon/" height="50" alt="">
-    <img src="/assets/icon/" height="50" alt="">
-    <img src="/assets/icon/" height="50" alt="">
-    <img src="/assets/icon/" height="50" alt="">
-    <img src="/assets/icon/" height="50" alt="">
-    <img src="/assets/icon/" height="50" alt="">
-    <img src="/assets/icon/" height="50" alt="">
+    <img src="/assets/icon/arduino.svg" height="50" alt="Arduino">
+    <img src="/assets/icon/c++.svg" height="50" alt="C++">
+    <img src="/assets/icon/c.svg" height="50" alt="C">
+    <img src="/assets/icon/devc++.png" height="50" alt="Dev C++">
+    <img src="/assets/icon/html.svg" height="50" alt="Html">
+    <img src="/assets/icon/json.png" height="50" alt="Json">
+    <img src="/assets/icon/mysql.svg" height="50" alt="Sql">
+    <img src="/assets/icon/obsidian.svg" height="50" alt="Obsidian">
+    <img src="/assets/icon/pgadmin4.svg" height="50" alt="Pgadmim 4">
+    <img src="/assets/icon/python.svg" height="50" alt="Python">
+    <img src="/assets/icon/raspberrypi.svg" height="50" alt="Raspberry pi">
+    <img src="/assets/icon/vscode.svg" height="50" alt="Vscode">
   </div>
 
 AI & Sistemas
@@ -86,9 +89,9 @@ AI & Sistemas
 
 # Cybersecurity & Research
 
-<img src="https://skillicons.dev/icons?i=bash" height=50 alt= "bash">
-<img src="https://skillicons.dev/icons?i=linux" height=50 alt="linux">
-<img src="https://nmap.org/images/nmap-logo-64px.svg" height="50" alt="Nmap" />
+<img src="/assets/cyber/bash.svg" height="50" alt="Bash">
+<img src="/assets/cyber/linux.svg" height="50" alt="Linux">
+<img src="/assets/cyber/nmap.svg" height="45" alt="Nmap">
 
 
 ```
