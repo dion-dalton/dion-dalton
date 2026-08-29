@@ -166,17 +166,7 @@ Experimentos envolvendo novas tecnologias, prototipação e pesquisa independent
 
 Foco: Tecnologias Emergentes • Inovação • Interação Humano-Computador
 
-# Contribuição de matriz
 
-<div align="center">
-
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dion-dalton&theme=react-dark)
-
-
-
-</div>
 
 
 # Educação
