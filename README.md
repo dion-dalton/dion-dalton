@@ -68,7 +68,7 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
 
   <div class="tech" >
     <img src="/assets/icon/arduino.svg" height="50" alt="Arduino">
-    <img src="/assets/icon/c++.svg" height="50" alt="C++">
+    <img src="/assets/icon/cpp.svg" height="50" alt="Cpp">
     <img src="/assets/icon/c.svg" height="50" alt="C">
     <img src="/assets/icon/devc++.png" height="50" alt="Dev C++">
     <img src="/assets/icon/html.svg" height="50" alt="Html">
