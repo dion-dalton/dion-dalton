@@ -81,7 +81,7 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
     <img src="/assets/icon/vscode.svg" height="50" alt="Vscode">
   </div>
 
-AI & Sistemas
+# AI & Sistemas
 
 <p> <img src="https://img.shields.io/badge/Chatbots-0D1117?style=for-the-badge&logoColor=00F5D4"> 
 <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logoColor=8A2BE2">
