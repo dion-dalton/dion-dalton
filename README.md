@@ -9,6 +9,7 @@
 
 </div>
 <div align="center">
+<br>
   
 # Sobre mim
   
@@ -41,7 +42,8 @@ Minha abordagem combina desenvolvimento técnico com Design Thinking, buscando t
 
 
 <div align="center">
-
+<br>
+  
 # Áreas e Interesses
 Python,	Automação, prototipação e desenvolvimento
 
@@ -61,7 +63,7 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
 
 </div>
 
-
+<br>
 <div align="center">
   
 # Tech stack
@@ -80,12 +82,14 @@ Pesquisa e Inovação, Experimentação e desenvolvimento
     <img src="/assets/icon/raspberrypi.svg" height="50" alt="Raspberry pi">
     <img src="/assets/icon/vscode.svg" height="50" alt="Vscode">
   </div>
+<br>
 
 # AI & Sistemas
 
 <p> <img src="https://img.shields.io/badge/Chatbots-0D1117?style=for-the-badge&logoColor=00F5D4"> 
 <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logoColor=8A2BE2">
 <img src="https://img.shields.io/badge/Conversational_AI-0D1117?style=for-the-badge&logoColor=00D9FF"> </p>
+<br>
 
 # Cybersecurity & Research
 
@@ -107,7 +111,9 @@ Building       [█████████████████░░░░�
 Atualmente estou ampliando minha formação em Ciência da Computação e aprofundando conhecimentos em diferentes áreas do desenvolvimento tecnológico.
 
 Meu objetivo é continuar explorando tecnologias emergentes e construir projetos que conectem software, inteligência artificial, segurança, hardware e experiência humana.
+
 <div align="center">
+<br>
   
 # Metodologia
 
@@ -142,38 +148,40 @@ Design Thinking → Prototipar → Costruir → Testar
 </div>
 Gosto de trabalhar de forma experimental: entender → imaginar → construir → testar → melhorar.
 
-
+<br>
+<br>
 
 # Project lab
+<br>
 
-Chatbot Lab
+<h3>Chatbot Lab</h3>
 
 Projetos relacionados a chatbots, automação e sistemas conversacionais.
 
 Stack: Python • AI • APIs • Conversational Systems
 
-
-Cyber Lab
+<br>
+<h3>Cyber Lab</h3>
 
 Experimentos e estudos relacionados a cibersegurança, sistemas, análise e práticas de hacking ético.
 
 Stack: Linux • Python • Bash • Security
 
-
-Prototype Lab
+<br>
+<h3>Prototype Lab</h3>
 
 Projetos experimentais envolvendo hardware, microcomputadores, sensores e tecnologias emergentes.
 
 Stack: Python • Hardware • Embedded Systems
 
-
-Research Lab
+<br>
+<h3>Research Lab</h3>
 
 Experimentos envolvendo novas tecnologias, prototipação e pesquisa independente.
 
 Foco: Tecnologias Emergentes • Inovação • Interação Humano-Computador
 
-
+<br>
 
 # Educação
 
@@ -185,6 +193,7 @@ Soluções Tecnológicas Emergentes
 
 Python • Chatbots • Design Thinking
 
+<br>
 
 # Filosofia
 
@@ -201,6 +210,7 @@ e tornar ideias concretas.
 
 </div>
 
+<br>
 
 # Conexões
 
