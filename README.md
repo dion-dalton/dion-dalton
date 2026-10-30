@@ -152,17 +152,20 @@ Projetos relacionados a chatbots, automação e sistemas conversacionais.
 
 Stack: Python • AI • APIs • Conversational Systems
 
+
 Cyber Lab
 
 Experimentos e estudos relacionados a cibersegurança, sistemas, análise e práticas de hacking ético.
 
 Stack: Linux • Python • Bash • Security
 
+
 Prototype Lab
 
 Projetos experimentais envolvendo hardware, microcomputadores, sensores e tecnologias emergentes.
 
 Stack: Python • Hardware • Embedded Systems
+
 
 Research Lab
 
@@ -172,9 +175,7 @@ Foco: Tecnologias Emergentes • Inovação • Interação Humano-Computador
 
 
 
-
 # Educação
-
 
 Ciência da Computação
 Universidade Cruzeiro do Sul
